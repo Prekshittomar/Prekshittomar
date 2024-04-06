@@ -1,5 +1,5 @@
 # 💫About Me :
-Data scientist
+I am a passionate Data Science Student who loves to do various operations on datas available of internet.
 
 
 # 💻Tech Stack
