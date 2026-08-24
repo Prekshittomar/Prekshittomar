@@ -64,12 +64,12 @@ Natural-language interface for CSV/Excel analysis, PDF chat, and YouTube video Q
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ Multimodal RAG App
-A retrieval-augmented generation application that reasons over mixed text and image inputs, powered by Google Gemini for grounded multimodal responses.
+### 🖼️ Bluff (Cheat / BS) — Real-Time Multiplayer Card Game
+Full-stack multiplayer implementation of Bluff for 3–6 players, with an authoritative server, per-player hand redaction, and bots that play over the same socket protocol as real clients — no back doors, no test hooks.
 
-**Stack:** Google Gemini · RAG · Jupyter
+**Stack:** React · TypeScript · Node.js · Socket.IO
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prekshittomar/Multimodel-RAG-App)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prekshittomar/Bluff)
 
 </td>
 </tr>
