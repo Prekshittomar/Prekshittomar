@@ -99,59 +99,11 @@ Daily, public build-in-the-open series (`#100DaysOfCode`) covering data science 
 
 <br/>
 
-## Current Focus
-
-- Knowledge graphs + RAG for source-grounded conversational systems
-- Multi-agent orchestration for automated business workflows (CrewAI, AutoGen)
-- Reducing hallucination and improving reliability in production LLM pipelines
-
-<br/>
-
-## Experience
-
-**Generative AI Data Scientist — Ransh Innovations Pvt. Ltd.** · 01/2025 – 07/2025
-- Shipped a production multilingual song translation & sentiment analysis app across 30+ languages, from PoC to deployment
-- Automated data-extraction pipelines with Selenium/BeautifulSoup, cutting manual effort by 70%+
-- Routed requests across Gemini and Groq via LangChain with Chain-of-Thought prompting
-
-**Prompt Engineer — Ransh Innovations Pvt. Ltd.** · 08/2024 – 01/2025
-- Designed and refined 500+ prompts across 30+ languages; cut hallucination rates by 35% through context engineering and few-shot tuning
-- Built reusable prompt templates and evaluation benchmarks, reducing new-asset lead time by 40%
-
-**Generative AI Engineer (Apprenticeship) — AGIE AI** · 06/2024 – 08/2024
-- Built production RAG applications using MongoDB Atlas Vector Search
-- Implemented autonomous multi-agent workflows (CrewAI, AutoGen) for multi-step reasoning
-- Benchmarked five LLM families (Gemini, Claude, GPT-4, LLaMA-3, LLaVA) for model-selection reports
-
-**Data Analyst Intern — IBM** · 07/2024 – 08/2024
-- Completed 8 IBM certifications in data analysis, machine learning, and cloud fundamentals
-- Engineered features on a clinical dataset and trained classification models with Scikit-learn
-
-<br/>
-
-## Education
-
-**M.Sc. Data and Knowledge Engineering** — Otto von Guericke University Magdeburg *(04/2026 – Present)*
-Focus: Machine Learning · Knowledge Graphs · NLP · Data Engineering
-
-**B.C.A.** — Vivekananda Institute of Professional Studies, Delhi *(09/2022 – 08/2025)*
-Core foundations in software engineering, databases, and applied computer science
-
-<br/>
 
 ## Research Publications
 
 - *Retrieval Augmented Generation: GITA (RAG-GITA) for Sustainable Spiritual Conversations* — Empirical Economics Letters ([DOI](https://doi.org/10.5281/zenodo.15801584))
 - *Lumynary: Interaction with Data using LLM and Streamlit* — Empirical Economics Letters ([DOI](https://doi.org/10.5281/zenodo.157933))
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prekshittomar&theme=default&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshittomar&theme=default&hide_border=true&layout=compact" height="165"/>
-</div>
 
 <br/>
 
